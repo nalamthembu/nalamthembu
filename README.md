@@ -25,8 +25,12 @@ Thriving in collaborative teams, I value open communication and seamless collabo
 
 My passion for game design fuels my commitment to delivering top-tier results, always in sync with my team's goals and objectives.
 
-Tools and Languages I use
-![Unity Logo]([url_to_unity_logo](https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg))
+<h3 align="left">Languages and Tools I use:</h3>
+<p align="left">  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpluscplus" width="40" height="40"/> </a> 
+<a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a> 
+<a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/> </a> 
 
 🌐 **Connect with Me**
 

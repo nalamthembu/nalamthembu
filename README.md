@@ -25,6 +25,9 @@ Thriving in collaborative teams, I value open communication and seamless collabo
 
 My passion for game design fuels my commitment to delivering top-tier results, always in sync with my team's goals and objectives.
 
+Tools and Languages I use
+![Unity Logo]([url_to_unity_logo](https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg))
+
 🌐 **Connect with Me**
 
 Feel free to connect with me to explore exciting opportunities and collaborations!

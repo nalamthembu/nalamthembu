@@ -1,8 +1,8 @@
 # About Me
 
-🎮 **Passionate Game Designer and Sound Engineer**
+🎮 **Passionate Game Designer and Programmer**
 
-With over 12 years of experience in Sound Design and a solid 7+ years mastering C#, I am a dedicated professional with a boundless passion for game design.
+With my solid skillset of C++, C# and Java, I am a dedicated professional with a boundless passion for game design.
 
 🚀 **Technical Proficiency**
 
